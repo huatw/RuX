@@ -1,4 +1,4 @@
-#Rux
+# Rux
 
 A Redux-like library to connect React and RX. The project is inspired by this amazing [article](https://michalzalecki.com/use-rxjs-with-react/), but not exact same.
 
